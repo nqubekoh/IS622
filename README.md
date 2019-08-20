@@ -1,10 +1,11 @@
 # IS622
 Information Systems
 
-Dear all
-Please be informed that 
-the assignment due dates have been extended to 30th August 2019
+Dear all, Please note:
 
-I have uploaded CA test 1 timetable 
+1.Please be informed that the assignment due dates have been extended to 30th August 2019
 
-Please go through Topic 1 up to 3, when we meet in class ill take questions and give you a small class test to prepare you for CATest which is Next week..
+2.I have uploaded CA test 1 timetable 
+
+3.since we are only left with one week of lectures before your CA test 1, we cant be able to go over everything in class do i kindly ask everyone to please go through Topic 1 up to 3 on their own so that when we meet in class i'll take questions that you might have and give you a small class test to prepare you for CATest which is Next week
+Thanks..
