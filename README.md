@@ -3,6 +3,6 @@ Information Systems
 
 Dear all, Please note:
 
-please keep checking this section for updates and notices  
+i have uploaded part 1 topic 6 slides, will cover it in class on our next lecture
 
 ...Thanks
